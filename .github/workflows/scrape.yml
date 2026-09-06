@@ -1,0 +1,36 @@
+name: 매일 가격 수집
+
+on:
+  schedule:
+    # 한국시간(KST, UTC+9) 매일 18:10 실행 -> UTC 09:10
+    - cron: "10 9 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: 파이썬 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 패키지 설치
+        run: pip install -r requirements.txt
+
+      - name: 가격 수집 실행
+        run: python scraper.py
+
+      - name: 변경사항 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: 가격 데이터 자동 업데이트 ($(date +%F))"
+          git push
