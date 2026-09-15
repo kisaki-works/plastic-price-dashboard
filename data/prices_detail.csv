@@ -1559,3 +1559,102 @@ date,material,source,name,spec,price,unit,region,qty,source_url
   				                    				                    				                    				                  >    				                  上海市",20吨,https://www.rawmex.cn/sell-9909645.html
 2026-09-14,LDPE,rawmex,LDPE,Q281,12800.0,元/吨,"上海
   				                    				                    				                    				                  >    				                  上海市",20吨,https://www.rawmex.cn/sell-9909646.html
+2026-09-15,ABS,cngold,ABS,通用级,11583.33,（元/吨）,,,https://m.cngold.org/price/jg10760030.html
+2026-09-15,HDPE,cngold,HDPE,牌号:5000S;用途级别:拉丝级,11025.0,（元/吨）,,,https://m.cngold.org/price/jg10760025.html
+2026-09-15,LDPE,cngold,LDPE,牌号:2426H;用途级别:薄膜级,12266.67,（元/吨）,,,https://m.cngold.org/price/jg10760024.html
+2026-09-15,PC,cngold,PC,通用级,15333.33,（元/吨）,,,https://m.cngold.org/price/jg10760028.html
+2026-09-15,PE,cngold,PE,薄膜料,9581.67,（元/吨）,,,https://m.cngold.org/price/jg10759983.html
+2026-09-15,PET,cngold,PET,用途级别:水瓶级,8662.08,（元/吨）,,,https://m.cngold.org/price/jg10760026.html
+2026-09-15,POM,cngold,POM,MC90,11900.0,（元/吨）,,,https://m.cngold.org/price/jg10759996.html
+2026-09-15,PP,cngold,PP(纤维),牌号:Z30S;用途级别:纤维级,10087.5,（元/吨）,,,https://m.cngold.org/price/jg10760032.html
+2026-09-15,PP,cngold,PP(拉丝),L5E89,10100.0,（元/吨）,,,https://m.cngold.org/price/jg10760032.html
+2026-09-15,PS,cngold,PS,牌号:525;用途级别:注塑级,11150.0,（元/吨）,,,https://m.cngold.org/price/jg10760031.html
+2026-09-15,PP,rawmex,PP,镇海炼化 T30S,11600.0,元/吨,"浙江省
+  				                    				                    				                    				                  >    				                  宁波市",27吨,https://www.rawmex.cn/sell-9944646.html
+2026-09-15,PP,rawmex,PP,镇海炼化 T30S,11900.0,元/吨,"浙江省
+  				                    				                    				                    				                  >    				                  宁波市",27吨,https://www.rawmex.cn/sell-9944645.html
+2026-09-15,PP,rawmex,PP,镇海炼化 T30S,11800.0,元/吨,"浙江省
+  				                    				                    				                    				                  >    				                  宁波市",27吨,https://www.rawmex.cn/sell-9944644.html
+2026-09-15,PP,rawmex,PP,抚顺石化 L5E89,10200.0,元/吨,"山东省
+  				                    				                    				                    				                  >    				                  临沂市",66吨,https://www.rawmex.cn/sell-9944641.html
+2026-09-15,PP,rawmex,PP,抚顺石化 L5E89,10050.0,元/吨,"山东省
+  				                    				                    				                    				                  >    				                  临沂市",99吨,https://www.rawmex.cn/sell-9944642.html
+2026-09-15,PP,rawmex,PP,抚顺石化 L5E89,10050.0,元/吨,"山东省
+  				                    				                    				                    				                  >    				                  临沂市",66吨,https://www.rawmex.cn/sell-9944323.html
+2026-09-15,PP,rawmex,PP,中煤 L5E89,10010.0,元/吨,"浙江省
+  				                    				                    				                    				                  >    				                  金华市",33吨,https://www.rawmex.cn/sell-9943339.html
+2026-09-15,PP,rawmex,PP,中煤 L5E89,10000.0,元/吨,"浙江省
+  				                    				                    				                    				                  >    				                  杭州市",34吨,https://www.rawmex.cn/sell-9941344.html
+2026-09-15,PP,rawmex,PP,中煤 L5E89,10070.0,元/吨,"浙江省
+  				                    				                    				                    				                  >    				                  金华市",66吨,https://www.rawmex.cn/sell-9930520.html
+2026-09-15,PP,rawmex,PP,牌号:T30S;用途级别:拉丝级;,10700.0,元/吨,湖北省,30.0吨,https://www.rawmex.cn/sell-9918459.html
+2026-09-15,ABS,rawmex,ABS,吉林石化 0215A,11600.0,元/吨,"广东省
+  				                    				                    				                    				                  >    				                  揭阳市",64吨,https://www.rawmex.cn/sell-9944319.html
+2026-09-15,ABS,rawmex,ABS,吉林石化 0215A,11600.0,元/吨,"广东省
+  				                    				                    				                    				                  >    				                  揭阳市",64吨,https://www.rawmex.cn/sell-9943345.html
+2026-09-15,ABS,rawmex,ABS,吉林石化 0215A,11550.0,元/吨,"广东省
+  				                    				                    				                    				                  >    				                  东莞市",64吨,https://www.rawmex.cn/sell-9943344.html
+2026-09-15,PC,rawmex,PC,鲁西化工 LXTY1609T-11,15350.0,元/吨,"广东省
+  				                    				                    				                    				                  >    				                  汕头市",80吨,https://www.rawmex.cn/sell-9944322.html
+2026-09-15,PC,rawmex,PC,鲁西化工 LXTY1609T-11,15300.0,元/吨,"广东省
+  				                    				                    				                    				                  >    				                  东莞市",80吨,https://www.rawmex.cn/sell-9944321.html
+2026-09-15,PC,rawmex,PC,鲁西化工 LXTY1609T-11,15350.0,元/吨,"广东省
+  				                    				                    				                    				                  >    				                  东莞市",80吨,https://www.rawmex.cn/sell-9944320.html
+2026-09-15,POM,rawmex,POM,F20-03,12500.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-9928475.html
+2026-09-15,POM,rawmex,POM,F20-02,12500.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-9928438.html
+2026-09-15,POM,rawmex,POM,100P  NC010,35000.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-9928372.html
+2026-09-15,POM,rawmex,POM,F20-03,12500.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-9928312.html
+2026-09-15,POM,rawmex,POM,F20-02,13000.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-9928306.html
+2026-09-15,POM,rawmex,POM,F20-02,13000.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-9928240.html
+2026-09-15,POM,rawmex,POM,M90-44,12500.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-9928141.html
+2026-09-15,POM,rawmex,POM,100ST,32000.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-9928096.html
+2026-09-15,POM,rawmex,POM,M90-04,12500.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-9928065.html
+2026-09-15,POM,rawmex,POM,FM270,13500.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-9928014.html
+2026-09-15,POM,rawmex,POM,M90,11200.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-9924280.html
+2026-09-15,POM,rawmex,POM,M270,11200.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-9924150.html
+2026-09-15,POM,rawmex,POM,30A,9000.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-9924041.html
+2026-09-15,POM,rawmex,POM,500P,29800.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-9923948.html
+2026-09-15,POM,rawmex,POM,K90,9200.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-9923782.html
+2026-09-15,POM,rawmex,POM,MC90,9200.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-9923583.html
+2026-09-15,POM,rawmex,POM,270,11000.0,元/吨,浙江省,100吨,https://www.rawmex.cn/sell-9923467.html
+2026-09-15,POM,rawmex,POM,MC90-L,9000.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-9923297.html
+2026-09-15,POM,rawmex,POM,MC90-01,9200.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-9923180.html
+2026-09-15,POM,rawmex,POM,MC90,9200.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-9923089.html
+2026-09-15,PET,rawmex,PET,浙江万凯 水瓶级 浙江万凯,8750.0,元/吨,"浙江省
+  				                    				                    				                    				                  >    				                  嘉兴市",100吨,https://www.rawmex.cn/sell-9944806.html
+2026-09-15,PET,rawmex,PET,"三房巷 水瓶级 三房巷 优等品,GB/T 17931-2018",8700.0,元/吨,"江苏省
+  				                    				                    				                    				                  >    				                  无锡市",90吨,https://www.rawmex.cn/sell-9932836.html
+2026-09-15,PET,rawmex,PET,"浙江万凯 水瓶级 浙江万凯 优等品,GB/T 17931-2018",8750.0,元/吨,"浙江省
+  				                    				                    				                    				                  >    				                  嘉兴市",100吨,https://www.rawmex.cn/sell-9939979.html
+2026-09-15,PET,rawmex,PET,"三房巷 水瓶级 三房巷 优等品,GB/T 17931-2018",8650.0,元/吨,"江苏省
+  				                    				                    				                    				                  >    				                  无锡市",150吨,https://www.rawmex.cn/sell-9933068.html
+2026-09-15,PET,rawmex,PET,浙江万凯 水瓶级 浙江万凯,8750.0,元/吨,"浙江省
+  				                    				                    				                    				                  >    				                  嘉兴市",100吨,https://www.rawmex.cn/sell-9939152.html
+2026-09-15,PET,rawmex,PET,"浙江万凯 水瓶级 浙江万凯 优等品,GB/T 17931-2018",8750.0,元/吨,"浙江省
+  				                    				                    				                    				                  >    				                  嘉兴市",100吨,https://www.rawmex.cn/sell-9932869.html
+2026-09-15,PVC,rawmex,PVC,SG-5 优等品 中泰,4900.0,元/吨,"江苏省
+  				                    				                    				                    				                  >    				                  常州市",100吨,https://www.rawmex.cn/sell-9942944.html
+2026-09-15,PVC,rawmex,PVC,SG-5 优等品 中泰,4900.0,元/吨,"江苏省
+  				                    				                    				                    				                  >    				                  常州市",100吨,https://www.rawmex.cn/sell-9942926.html
+2026-09-15,PVC,rawmex,PVC,SG-5 优等品 中泰,4900.0,元/吨,"江苏省
+  				                    				                    				                    				                  >    				                  常州市",100吨,https://www.rawmex.cn/sell-9941246.html
+2026-09-15,PVC,rawmex,PVC,SG-5 优等品 鲁泰,4900.0,元/吨,"山东省
+  				                    				                    				                    				                  >    				                  济宁市",100吨,https://www.rawmex.cn/sell-9939748.html
+2026-09-15,PVC,rawmex,PVC,SG-5 优等品 鲁泰,4900.0,元/吨,"山东省
+  				                    				                    				                    				                  >    				                  济宁市",100吨,https://www.rawmex.cn/sell-9939741.html
+2026-09-15,PVC,rawmex,PVC,SG-5 优等品 鲁泰,4900.0,元/吨,"山东省
+  				                    				                    				                    				                  >    				                  济宁市",100吨,https://www.rawmex.cn/sell-9939737.html
+2026-09-15,PVC,rawmex,PVC,SG-5 优等品 鲁泰,4900.0,元/吨,"山东省
+  				                    				                    				                    				                  >    				                  济宁市",100吨,https://www.rawmex.cn/sell-9939731.html
+2026-09-15,PVC,rawmex,PVC,SG-5 优等品 鲁泰,4900.0,元/吨,"山东省
+  				                    				                    				                    				                  >    				                  济宁市",100吨,https://www.rawmex.cn/sell-9939724.html
+2026-09-15,PVC,rawmex,PVC,SG-5 优等品 信发,4860.0,元/吨,"山东省
+  				                    				                    				                    				                  >    				                  聊城市",100吨,https://www.rawmex.cn/sell-9939697.html
+2026-09-15,PVC,rawmex,PVC,SG-5 优等品 信发,4860.0,元/吨,"山东省
+  				                    				                    				                    				                  >    				                  聊城市",100吨,https://www.rawmex.cn/sell-9939691.html
+2026-09-15,PVC,rawmex,PVC,SG-5 优等品 信发,4860.0,元/吨,"山东省
+  				                    				                    				                    				                  >    				                  聊城市",100吨,https://www.rawmex.cn/sell-9939676.html
+2026-09-15,PVC,rawmex,PVC,SG-5 优等品 信发,4860.0,元/吨,"山东省
+  				                    				                    				                    				                  >    				                  聊城市",100吨,https://www.rawmex.cn/sell-9939667.html
+2026-09-15,PVC,rawmex,PVC,SG-5 优等品 信发,4860.0,元/吨,"山东省
+  				                    				                    				                    				                  >    				                  聊城市",100吨,https://www.rawmex.cn/sell-9939647.html
