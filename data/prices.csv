@@ -296,3 +296,17 @@ date,material,source,avg_price,min_price,max_price,spec_count,unit,source_url
 2026-09-24,PET,rawmex,8691.33,8600.0,8800.0,15,元/吨,https://www.rawmex.cn/trade/s-143/
 2026-09-24,PVC,rawmex,4693.33,4650.0,4800.0,12,元/吨,https://www.rawmex.cn/trade/s-72/
 2026-09-24,LDPE,rawmex,12400.0,12400.0,12400.0,1,元/吨,https://www.rawmex.cn/trade/s-157/
+2026-09-24,ABS,cngold,10983.33,10983.33,10983.33,1,（元/吨）,https://m.cngold.org/price/jg10781317.html
+2026-09-24,HDPE,cngold,10487.5,10487.5,10487.5,1,（元/吨）,https://m.cngold.org/price/jg10781312.html
+2026-09-24,LDPE,cngold,12000.0,12000.0,12000.0,1,（元/吨）,https://m.cngold.org/price/jg10781311.html
+2026-09-24,PC,cngold,14966.67,14966.67,14966.67,1,（元/吨）,https://m.cngold.org/price/jg10781315.html
+2026-09-24,PE,cngold,9215.0,9215.0,9215.0,1,（元/吨）,https://m.cngold.org/price/jg10781270.html
+2026-09-24,PET,cngold,8643.33,8643.33,8643.33,1,（元/吨）,https://m.cngold.org/price/jg10781313.html
+2026-09-24,POM,cngold,11900.0,11900.0,11900.0,1,（元/吨）,https://m.cngold.org/price/jg10781283.html
+2026-09-24,PP,cngold,9991.67,9883.33,10100.0,2,（元/吨）,https://m.cngold.org/price/jg10781319.html
+2026-09-24,PS,cngold,11083.33,11083.33,11083.33,1,（元/吨）,https://m.cngold.org/price/jg10781318.html
+2026-09-24,PVC,cngold,4665.0,4665.0,4665.0,1,（元/吨）,https://m.cngold.org/price/jg10781320.html
+2026-09-25,PP,rawmex,10200.0,10200.0,10200.0,2,元/吨,https://www.rawmex.cn/trade/s-70/
+2026-09-25,ABS,rawmex,12933.33,10800.0,15000.0,12,元/吨,https://www.rawmex.cn/trade/s-129/
+2026-09-25,PC,rawmex,15866.67,15000.0,18500.0,12,元/吨,https://www.rawmex.cn/trade/s-154/
+2026-09-25,POM,rawmex,10266.67,9200.0,14000.0,12,元/吨,https://www.rawmex.cn/trade/s-257/
