@@ -4054,3 +4054,65 @@ date,material,source,name,spec,price,unit,region,qty,source_url
 2026-10-02,PP,cngold,PP(拉丝),L5E89,9933.33,（元/吨）,,,https://m.cngold.org/price/jg10794076.html
 2026-10-02,PS,cngold,PS,牌号:525;用途级别:注塑级,11133.33,（元/吨）,,,https://m.cngold.org/price/jg10794075.html
 2026-10-02,PVC,cngold,PVC,SG-5 优等品,4865.0,（元/吨）,,,https://m.cngold.org/price/jg10794077.html
+2026-10-03,ABS,cngold,ABS,通用级,11316.67,（元/吨）,,,https://m.cngold.org/price/jg10795196.html
+2026-10-03,HDPE,cngold,HDPE,牌号:5000S;用途级别:拉丝级,10475.0,（元/吨）,,,https://m.cngold.org/price/jg10795191.html
+2026-10-03,LDPE,cngold,LDPE,牌号:2426H;用途级别:薄膜级,12133.33,（元/吨）,,,https://m.cngold.org/price/jg10795190.html
+2026-10-03,PC,cngold,PC,通用级,14716.67,（元/吨）,,,https://m.cngold.org/price/jg10795194.html
+2026-10-03,PE,cngold,PE,薄膜料,9425.0,（元/吨）,,,https://m.cngold.org/price/jg10795149.html
+2026-10-03,PET,cngold,PET,用途级别:水瓶级,8750.0,（元/吨）,,,https://m.cngold.org/price/jg10795192.html
+2026-10-03,POM,cngold,POM,MC90,11900.0,（元/吨）,,,https://m.cngold.org/price/jg10795162.html
+2026-10-03,PP,cngold,PP(纤维),牌号:Z30S;用途级别:纤维级,10162.5,（元/吨）,,,https://m.cngold.org/price/jg10795198.html
+2026-10-03,PP,cngold,PP(拉丝),L5E89,9933.33,（元/吨）,,,https://m.cngold.org/price/jg10795198.html
+2026-10-03,PS,cngold,PS,牌号:525;用途级别:注塑级,11133.33,（元/吨）,,,https://m.cngold.org/price/jg10795197.html
+2026-10-03,PVC,cngold,PVC,SG-5 优等品,4865.0,（元/吨）,,,https://m.cngold.org/price/jg10795199.html
+2026-10-03,PP,rawmex,PP,聚丙注塑K8003,9800.0,元/吨,江苏省,10000吨,https://www.rawmex.cn/sell-10412857.html
+2026-10-03,PP,rawmex,PP,3080,11200.0,元/吨,江苏省,10000吨,https://www.rawmex.cn/sell-10412856.html
+2026-10-03,PP,rawmex,PP,3015,11300000.0,元/吨,江苏省,10000千克,https://www.rawmex.cn/sell-10412855.html
+2026-10-03,PP,rawmex,PP,1120,11000.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412854.html
+2026-10-03,ABS,rawmex,ABS,121H,12200.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412853.html
+2026-10-03,ABS,rawmex,ABS,DG-417,11800.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412852.html
+2026-10-03,ABS,rawmex,ABS,AF-312C,23000.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412851.html
+2026-10-03,ABS,rawmex,ABS,PA-757,13000.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412850.html
+2026-10-03,ABS,rawmex,ABS,PA-757K,12500.0,元/吨,浙江省,100吨,https://www.rawmex.cn/sell-10412849.html
+2026-10-03,PC,rawmex,PC,LXTY1609T-11,14800.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412872.html
+2026-10-03,PC,rawmex,PC,WY-111BR,14000.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412871.html
+2026-10-03,PC,rawmex,PC,106BR,14000.0,元/吨,江苏省,10000吨,https://www.rawmex.cn/sell-10412865.html
+2026-10-03,PC,rawmex,PC,02-10R,14300.0,元/吨,江苏省,10000吨,https://www.rawmex.cn/sell-10412864.html
+2026-10-03,PC,rawmex,PC,CH95,14000.0,元/吨,江苏省,10000吨,https://www.rawmex.cn/sell-10412863.html
+2026-10-03,PC,rawmex,PC,牌号1100,15800.0,元/吨,浙江省,10000吨,https://www.rawmex.cn/sell-10412862.html
+2026-10-03,POM,rawmex,POM,牌号:4520;,14000.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412841.html
+2026-10-03,POM,rawmex,POM,100P,34000.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412840.html
+2026-10-03,POM,rawmex,POM,100P  NC010,34000.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412839.html
+2026-10-03,POM,rawmex,POM,K300,13500.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412838.html
+2026-10-03,POM,rawmex,POM,F20-03,13500.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412837.html
+2026-10-03,POM,rawmex,POM,F20-02,13500.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412836.html
+2026-10-03,POM,rawmex,POM,M90-44,13800.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412835.html
+2026-10-03,POM,rawmex,POM,100ST,32000.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412834.html
+2026-10-03,POM,rawmex,POM,M90-04,13000.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412833.html
+2026-10-03,POM,rawmex,POM,FM270,13500.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412832.html
+2026-10-03,POM,rawmex,POM,M90,12000.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412831.html
+2026-10-03,POM,rawmex,POM,M90,11400.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412830.html
+2026-10-03,POM,rawmex,POM,M270,11400.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412829.html
+2026-10-03,POM,rawmex,POM,30A,8800.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412828.html
+2026-10-03,POM,rawmex,POM,500P,30000.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412827.html
+2026-10-03,POM,rawmex,POM,K90,9200.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412826.html
+2026-10-03,POM,rawmex,POM,MC90,9400.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412825.html
+2026-10-03,POM,rawmex,POM,270,11200.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412824.html
+2026-10-03,POM,rawmex,POM,MC90-L,9000.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412823.html
+2026-10-03,POM,rawmex,POM,MC90-01,9200.0,元/吨,江苏省,100吨,https://www.rawmex.cn/sell-10412822.html
+2026-10-03,PA6,rawmex,PA6,1013B,16000.0,元/吨,江苏省,10000吨,https://www.rawmex.cn/sell-10412848.html
+2026-10-03,PA6,rawmex,PA6,用途级别:食品接触应用;牌号:1030 B 高粘度,17500.0,元/吨,江苏省,10000吨,https://www.rawmex.cn/sell-10412846.html
+2026-10-03,PA6,rawmex,PA6,73G45L,22000.0,元/吨,江苏省,10000吨,https://www.rawmex.cn/sell-10412845.html
+2026-10-03,PA66,rawmex,PA66,21SPC V2通用级,32000.0,元/吨,江苏省,10000吨,https://www.rawmex.cn/sell-10412861.html
+2026-10-03,PA66,rawmex,PA66,牌号：FR50 用途级别：增强级,32000.0,元/吨,江苏省,10000吨,https://www.rawmex.cn/sell-10412860.html
+2026-10-03,PA66,rawmex,PA66,101L,28000.0,元/吨,江苏省,10000公斤,https://www.rawmex.cn/sell-10412859.html
+2026-10-03,PA66,rawmex,PA66,1300S,25000.0,元/吨,江苏省,10000千克,https://www.rawmex.cn/sell-10412858.html
+2026-10-03,PA66,rawmex,PA66,A3WG6,22000.0,元/吨,江苏省,10000吨,https://www.rawmex.cn/sell-10412847.html
+2026-10-03,PET,rawmex,PET,WK-821,8400.0,元/吨,江苏省,10000吨,https://www.rawmex.cn/sell-10412870.html
+2026-10-03,PET,rawmex,PET,WK-801,8700.0,元/吨,江苏省,10000吨,https://www.rawmex.cn/sell-10412869.html
+2026-10-03,PET,rawmex,PET,CZ-328,8500.0,元/吨,江苏省,10000吨,https://www.rawmex.cn/sell-10412868.html
+2026-10-03,PET,rawmex,PET,CZ-302,8700.0,元/吨,上海,10000吨,https://www.rawmex.cn/sell-10412867.html
+2026-10-03,PET,rawmex,PET,CZ-318,8700.0,元/吨,江苏省,10000吨,https://www.rawmex.cn/sell-10412866.html
+2026-10-03,PET,rawmex,PET,用途级别:水瓶级,8000.0,元/吨,江苏省,10000吨,https://www.rawmex.cn/sell-10412844.html
+2026-10-03,PET,rawmex,PET,用途级别:水瓶级,8000.0,元/吨,江苏省,10000吨,https://www.rawmex.cn/sell-10412843.html
+2026-10-03,PET,rawmex,PET,用途级别:水瓶级,8650.0,元/吨,浙江省,100吨,https://www.rawmex.cn/sell-10412842.html
