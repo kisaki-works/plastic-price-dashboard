@@ -510,3 +510,9 @@ date,material,source,avg_price,min_price,max_price,spec_count,unit,source_url
 2026-10-10,PET,rawmex,9263.0,9180.0,9300.0,20,元/吨,https://www.rawmex.cn/trade/s-143/
 2026-10-10,PVC,rawmex,4928.46,4900.0,4950.0,13,元/吨,https://www.rawmex.cn/trade/s-72/
 2026-10-10,LDPE,rawmex,12800.0,12800.0,12800.0,4,元/吨,https://www.rawmex.cn/trade/s-157/
+2026-10-11,PP,rawmex,10800.0,10800.0,10800.0,1,元/吨,https://www.rawmex.cn/trade/s-70/
+2026-10-11,ABS,rawmex,12983.33,10800.0,15000.0,6,元/吨,https://www.rawmex.cn/trade/s-129/
+2026-10-11,PC,rawmex,16114.29,15200.0,18500.0,7,元/吨,https://www.rawmex.cn/trade/s-154/
+2026-10-11,POM,rawmex,14055.56,9200.0,38000.0,9,元/吨,https://www.rawmex.cn/trade/s-257/
+2026-10-11,PA66,rawmex,25750.0,19500.0,40000.0,6,元/吨,https://www.rawmex.cn/trade/s-153/
+2026-10-11,PET,rawmex,9300.0,9300.0,9300.0,1,元/吨,https://www.rawmex.cn/trade/s-143/
